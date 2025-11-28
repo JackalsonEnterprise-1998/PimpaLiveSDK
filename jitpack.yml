@@ -1,2 +1,6 @@
 jdk:
   - openjdk11
+android:
+  tasks:
+    - clean
+    - build
